@@ -1,0 +1,1 @@
+Genotype	Treatment	Drought	Relative	SDRTx430	Control	2-weeks	1	0.07153RTx430	Drought	2-weeks	1.951839057	0.1547BTx642	Control	2-weeks	1	0.0432BTx642	Drought	2-weeks	2.665750196	0.1046RTx430	Control	4-weeks	1	0.096RTx430	Drought	4-weeks	48.58974359	0.958BTx642	Control	4-weeks	1	0.025BTx642	Drought	4-weeks	102.8988764	3.607
